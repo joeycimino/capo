@@ -57,7 +57,9 @@ If you are interesting in contributing, see the [Contributor Code of Conduct](CO
 This project is licensed under the Common Development and Distribution License 1.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 
+Happy emoting!
 
+![lenny intensifies](https://giphy.com/gifs/lenny-5uZjTWWr8gK8U)
 
 
 
