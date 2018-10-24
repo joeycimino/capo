@@ -43,7 +43,7 @@ CAPO should open automatically
 
 ## Contribution
 
-If you are interesting in contributing, see the [Contributor Code of Conduct]()
+If you are interesting in contributing, see the [Contributor Code of Conduct](CODE-OF-CONDUCT.md)
 
 
 
