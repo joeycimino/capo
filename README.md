@@ -1,5 +1,8 @@
 # CAPO 
 
+![logo](logo.png)
+
+
 CAPO is a python package that prints out random, symbol based emoticons. Because why not. 
 
 ## Requirements
