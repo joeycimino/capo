@@ -51,7 +51,7 @@ If you are interesting in contributing, see the [Contributor Code of Conduct]()
 
 ## License
 
-This project is licensed under the Common Development and Distribution License 1.0 - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details
+This project is licensed under the Common Development and Distribution License 1.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
