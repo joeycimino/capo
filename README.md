@@ -59,7 +59,7 @@ This project is licensed under the Common Development and Distribution License 1
 
 Happy emoting!
 
-![lenny intensifies](https://giphy.com/gifs/lenny-5uZjTWWr8gK8U)
+![lenny intensifies](https://media.giphy.com/media/5uZjTWWr8gK8U/giphy.gif)
 
 
 
